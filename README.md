@@ -1,3 +1,4 @@
 # ai-for-the-arts
-## why ai is popular today
-Because it benefits prosumers
+This is a place for me to complete the coursework
+- Learn Skills
+- Communicate with classmate
